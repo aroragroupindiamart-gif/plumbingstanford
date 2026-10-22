@@ -1,55 +1,71 @@
 {
   "intro": [
-    "When you need {kw} in {cityName}, you need a trusted professional who responds fast. Our licensed {nichePluralLower} are ready 24 hours a day, 7 days a week.",
-    "{cityName} residents rely on {brandName} for dependable {kw}. Our certified {nichePluralLower} serve the entire {cityName} area with same-day service available.",
-    "Don't let a {nicheLower} problem disrupt your life. Our {cityName} {kw} specialists have the tools and experience to resolve any issue quickly — the first time.",
-    "For {kw} in {cityName}, our team of licensed, insured {nichePluralLower} brings years of hands-on experience and guaranteed workmanship to every job."
+    "Delivering precision-engineered {kw} in {cityName}, {brandName} sets the benchmark for elite mechanical craftsmanship.",
+    "Experience master-certified plumbing integrity with {brandName}, serving discerning residential and commercial properties across {cityName}.",
+    "Engineered plumbing excellence meets architectural standards—trust {brandName} for superior {kw} in {cityName}.",
+    "For property owners who refuse to compromise on quality, {brandName} provides code-certified {kw} backed by industry-leading credentials.",
+    "Every pipe, fitting, and valve installed by {brandName} in {cityName} is calibrated for maximum longevity and peak hydraulic efficiency.",
+    "When structural integrity and absolute code compliance matter most, {cityName} turns to {brandName} for master-level {kw}."
   ],
   "body1": [
-    "Our {cityName} {nichePluralLower} bring years of hands-on experience in {kw}. Every technician is fully licensed, insured, and background-checked. We use professional-grade equipment to ensure lasting results.",
-    "For {kw} in {cityName}, no job is too big or too small. We handle everything from routine maintenance to complex emergency repairs, always delivering the highest standard of workmanship.",
-    "{brandName} has built a reputation in {cityName} by providing honest, transparent {kw} at fair prices. We give upfront quotes with no hidden fees, and our technicians explain every step before they begin work.",
-    "When it comes to {kw} in {cityName}, our crew arrives on time, respects your property, and cleans up completely before leaving. All work is backed by a written guarantee."
+    "At {brandName}, our master-licensed technicians apply rigorous diagnostic methodologies and ASME-grade standards to every {kw} assignment in {cityName}.",
+    "We utilize advanced acoustic leak detection, fiber-optic video inspection, and precision hydrostatic testing to eliminate guesswork from your plumbing infrastructure.",
+    "Our commitment to architectural precision ensures that all water distribution, drainage, and venting installations harmonize seamlessly with your property's engineering.",
+    "We enforce uncompromising material standards, utilizing exclusively commercial-grade copper, schedule-40 PVC, and lead-free brass components.",
+    "Each project in {cityName} is overseen by senior tradesmen with decades of field-proven mechanical mastery and comprehensive regulatory knowledge.",
+    "Our team provides comprehensive hydraulic balance assessments to safeguard your fixtures against premature wear, water hammer, and thermal stress."
   ],
   "body2": [
-    "Whether you're dealing with an urgent situation or planning a scheduled {kw} project in {cityName}, we make the process easy. Call us any time, day or night.",
-    "Our {kw} services in {cityName} are backed by a workmanship warranty. We stand behind every job, ensuring you have peace of mind long after our technicians leave.",
-    "When you choose {brandName} for {kw} in {cityName}, you're choosing a team that treats your property like their own. We clean up after every job and minimize disruption.",
-    "{cityName} residents trust us for {kw} because we show up on time, price jobs fairly, and never cut corners. Call {phoneNumber} to schedule service."
+    "Investing in premium plumbing protection safeguards your property value—our {cityName} clients enjoy dependable systems that perform flawlessly for decades.",
+    "Every installation and major restoration performed by {brandName} includes our signature multi-point certification audit and lifetime workmanship warranty.",
+    "We maintain meticulous digital service documentation and pressure logs for all {kw} projects completed throughout {cityName}.",
+    "Enjoy complete confidence knowing your plumbing systems meet or exceed current regional building codes and conservation mandates.",
+    "Schedule a technical consultation with an accredited {cityName} master plumber today by calling {phoneNumber}.",
+    "From heritage estates to modern commercial developments, {brandName} represents the gold standard of mechanical reliability."
   ],
   "trustBulletSets": [
     [
-      "Fully licensed and insured {kw} technicians",
-      "24/7 emergency response — no extra charge for nights or weekends",
-      "Upfront, transparent pricing — no hidden fees",
-      "All work backed by our workmanship guarantee",
-      "Locally trusted in {cityName}"
+      "Master-Licensed Tradesmen",
+      "Rigorous ASME/UPC Code Compliance",
+      "Commercial-Grade Materials Only",
+      "Lifetime Workmanship Warranty",
+      "Comprehensive System Audits"
     ],
     [
-      "Same-day {kw} service available in {cityName}",
-      "Background-checked technicians — safe for your home and family",
-      "Free estimates on major jobs",
-      "We use only quality, code-compliant materials",
-      "Eco-friendly options available upon request"
+      "Acoustic & Video Diagnostics",
+      "White-Glove Property Protection",
+      "Itemized Engineering Estimates",
+      "Architectural Grade Installations",
+      "Accredited Mechanical Specialists"
     ],
     [
-      "Rapid response — most jobs dispatched within the hour",
-      "{cityName} residents have trusted us for years",
-      "Expert {kw} diagnosis — right the first time",
-      "Flexible appointment times including evenings and weekends",
-      "Fully equipped for on-the-spot repairs"
+      "Multi-Point Pressure Verification",
+      "Dedicated Senior Technicians",
+      "Zero Code Violations Guaranteed",
+      "Fully Bonded & Heavily Insured",
+      "Elite Craftsmanship Standards"
+    ],
+    [
+      "Custom Hydraulic Engineering",
+      "Direct Master Plumber Access",
+      "Complete Digital System Records",
+      "Non-Invasive Diagnostic Tools",
+      "Premium Concierge Service at {phoneNumber}"
     ]
   ],
   "faqCostAnswers": [
-    "The cost of {kw0} in {cityName} varies based on the scope of work. We provide free estimates on all major jobs and upfront quotes before any work begins. Call {phoneNumber} for a quote.",
-    "Pricing for {kw0} in {cityName} depends on factors like the severity and access required. We offer competitive, transparent pricing. Call us at {phoneNumber} for an accurate estimate."
+    "We provide itemized, comprehensive project specifications and fixed investment schedules for all {kw0} engagements in {cityName}. Speak with a master plumber at {phoneNumber} to arrange an evaluation.",
+    "Quality plumbing is a long-term capital investment. Our transparent proposals for {kw0} detail exact material grades, labor allocations, and warranty terms without hidden fees. Inquire at {phoneNumber}.",
+    "Each {kw0} project in {cityName} begins with a thorough architectural review to provide an accurate, guaranteed quote. Contact our office at {phoneNumber}."
   ],
   "faqArrivalAnswers": [
-    "For emergency {kw1} calls in {cityName}, we typically dispatch a technician within 30–60 minutes. For scheduled appointments, we offer same-day and next-day availability.",
-    "Our {cityName} {nichePluralLower} are strategically located for fast response. Emergency calls are typically answered within the hour."
+    "We honor your schedule with guaranteed appointment windows and advance confirmation calls from your lead technician prior to arrival in {cityName}.",
+    "Our senior master technicians provide dedicated appointment slots, allowing ample time for comprehensive diagnostics and detailed client consultations.",
+    "Emergency diagnostic dispatch is available for urgent infrastructure failures throughout {cityName}, typically within 60 minutes."
   ],
   "faqBeforeArrivalAnswers": [
-    "For most service calls, just ensure the technician can access the work area. If there is an active problem, try to isolate it to minimize damage. Our dispatcher can walk you through any emergency steps.",
-    "Clear the work area so our technician has room to work safely. Our dispatcher can walk you through any emergency steps when you call {phoneNumber}."
+    "Please make sure your main mechanical room, water meter, and electrical panels are unobstructed to facilitate comprehensive diagnostic readings.",
+    "Locate any previous plumbing blueprints, permits, or fixture warranties if available, as these assist our technicians in optimizing your installation.",
+    "Ensure clear pathway clearance for precision diagnostic carts and testing equipment throughout the service zone."
   ]
 }
